@@ -1,4 +1,4 @@
-![Erila Network]([https://avatars.githubusercontent.com/u/190960797?s=200&v=4](https://avatars.githubusercontent.com/u/220785299?s=200&v=4))
+![Erila Network](https://avatars.githubusercontent.com/u/220785299?s=200&v=4)
 
 # Welcome to Erila Network!
 
